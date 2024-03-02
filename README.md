@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fim-Tech
-- 👀 I’m interested in ... Python Programming
+- 👀 I’m interested in ... Python Language
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
